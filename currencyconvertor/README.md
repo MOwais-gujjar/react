@@ -1,6 +1,7 @@
-# React + Vite
+# API 
+`https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/{currency}.json`
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
 
 Currently, two official plugins are available:
 
